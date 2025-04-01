@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kalmsi
+- 👋 Hi, I’m Franklin
 - 👀 I’m interested in coding but im lazy
 - 🌱 I’m currently learning React
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm Black
