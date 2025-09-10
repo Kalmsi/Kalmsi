@@ -2,6 +2,7 @@
 
 - 🔭 Freshman computer science student at PSU
 - 🌱 Aiming to become a full-stack developer
+- oh and I like cats :p
 
 
 
